@@ -1,5 +1,5 @@
-<img alt="coding images" align="center" height="350" width="1000"
-  src="https://tskyvolt.com/img/services/web-development.gif" />
+<img alt="coding images" align="center" height="350"
+  src="https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif" />
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding images" width="400" height="300" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
