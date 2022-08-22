@@ -1,8 +1,8 @@
-<img alt="coding images" style="height:250px;width:100%"
-  src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966" />
+<img alt="coding images" align="center" height="350" width="1000"
+  src="https://tskyvolt.com/img/services/web-development.gif" />
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding images" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" alt="coding images" width="400" height="300" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 - 🔭 I’m currently working on **searchin web-app**
 
