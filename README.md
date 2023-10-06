@@ -17,25 +17,12 @@
 
 - 📫 How to reach me **mishraashutosh2309@gmail.com**
 
-- 📄 Know about my experiences [https://aashu-portfolio.herokuapp.com/](https://aashu-portfolio.herokuapp.com/)
+- 📄 Know more about me on [Linkedin](https://www.linkedin.com/in/ashutosh-mishra-909550218/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/ashutosh-mishra-909550218/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            target="_blank"
-            alt="https://www.linkedin.com/in/ashutosh-mishra-909550218/" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/aashu_09.m/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            target="_blank"
-            alt="https://www.instagram.com/aashu_09.m/" height="30" width="40" /></a>
-  <a href="https://leetcode.com/mishraashutosh2309" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"  target="_blank"
-            alt="Leetcode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mishraashutosh2309" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg"  target="_blank"
-            alt="geeksforgeeks" height="30" width="40" /></a>
+  <a href="https://leetcode.com/mishraashutosh2309" target="blank">Leetcode</a>
+  <a href="https://auth.geeksforgeeks.org/user/mishraashutosh2309" target="blank">GeeksforGeeks</a>
     <a href="https://www.hackerrank.com/mishraashutosh24" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  target="_blank"
             alt="https://www.hackerrank.com/mishraashutosh24" height="30" width="40" /></a>
