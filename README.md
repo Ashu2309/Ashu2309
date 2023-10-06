@@ -32,10 +32,10 @@
             alt="https://www.instagram.com/aashu_09.m/" height="30" width="40" /></a>
   <a href="https://leetcode.com/mishraashutosh2309" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"  target="_blank"
-            alt="https://www.hackerrank.com/mishraashutosh24" height="30" width="40" /></a>
+            alt="Leetcode" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/mishraashutosh2309" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg"  target="_blank"
-            alt="https://www.hackerrank.com/mishraashutosh24" height="30" width="40" /></a>
+            alt="geeksforgeeks" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/mishraashutosh24" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  target="_blank"
             alt="https://www.hackerrank.com/mishraashutosh24" height="30" width="40" /></a>
